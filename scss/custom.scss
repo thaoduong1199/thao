@@ -49,9 +49,10 @@
 	overflow-x: hidden;
 
 	img {
-		width: 81px;
-		height: 81px;
-		border-radius: 99px;
+		width: 100px;
+		height: 100px;
+		border-radius: 50px;
+		object-fit: cover;
 	}
 
 	.wrap {
